@@ -1,0 +1,18 @@
+.search-box{
+    height: 50px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.search-box button{
+     background-color: #419955;
+    border-radius: 18px;
+    width: 10%;
+    height: 80%;
+    border: 1px solid #419955;
+    transition: transform 0.5s;
+    color: white;
+    font-size: 100%;
+}
